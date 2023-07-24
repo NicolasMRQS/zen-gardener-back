@@ -1,11 +1,11 @@
-# Zen Gardener #
+# Project - Zen-Gardener
 
 ## Présentation ##
 
-**Zen gardener** est le mvp d'un site mobile et destok d'assistance au jardiange.
-Ce repos présente la partie back du site : une API REST consommé par [la partie front disponible ici](https://zen-gardener.netlify.app/)
+**Zen gardener** est le mvp d'un site mobile et destok d'assistance au jardinage.
+Ce repos présente la partie back du site : une API REST consommé par [la partie front disponible ici](https://github.com/NicolasMRQS/zen-gardener-front)
 
-## contexte ##
+## Contexte ##
 
 Ce rendu est le résultat de 1 mois de projet, conclusion de la formation [developpeur fullstack js](https://oclock.io/formations/developpeur-web-fullstack-javascript).
 Nous étions 5 répartie en deux équipes de 3 dev front et 2 dev back.
